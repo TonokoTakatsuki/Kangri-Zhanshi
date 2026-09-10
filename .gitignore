@@ -1,0 +1,8 @@
+# Only the finished text and the chart/table scans are published.
+# Run files, per-page caches and reports stay local.
+/_*.json
+/_*.jpg
+*/pages/
+*/review/
+*/crops/
+*.report.json
