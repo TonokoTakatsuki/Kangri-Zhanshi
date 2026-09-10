@@ -139,7 +139,7 @@ One folder per volume, named "three-digit volume number + original title" (the p
 ```
 054 桂南會戰/
 ├── 54.txt            plain text (UTF-8 with BOM)
-├── 54.md             the same text with chapter heading levels (Markdown)
+├── 54.md             the same text with chapter heading levels; chart pages embedded as images (Markdown)
 └── figures/          colour scans of the chart/table pages
     └── 54_p0012.jpg  p0012 is the page's position in the scan file, not the printed page number
 ```
